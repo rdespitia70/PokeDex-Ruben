@@ -1,0 +1,12 @@
+.bordes{
+    border: solid 1px gray;
+}
+.fondo:hover{
+    background-color: chartreuse;
+    border-color: chartreuse;
+}
+.back{
+    background-image: url(https://wallpaperaccess.com/full/747803.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

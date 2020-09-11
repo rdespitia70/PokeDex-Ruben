@@ -1,0 +1,14 @@
+Se te otorgará un JSON con los primeros 151 Pokémons
+Desplegar cada uno de ellos
+El sitio debe de ser responsivo para distintos tipos de pantalla (Debes de utilizar Bootstrap)
+Debes de combinar Bootstrap + tu propio CSS
+Utiliza componentes animados
+Si das click a la imagen debes de mostrar la imagen en un tamaño superior en un modal (Puedes usar el componente de Bootstrap)
+SOLAMENTE PUEDES USAR JS (Solamente puedes utilizar jQuery para las animaciones de Bootstrap
+Agregar animaciones a las tarjetas (:hover)
+
+Extra
+
+Usa un color que corresponda a el tipo de Pokémon.
+En el Modal despliega habilidades, tipos y ataques.
+Un buscador de Pokémon
